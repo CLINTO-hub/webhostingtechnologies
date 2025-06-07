@@ -29,6 +29,7 @@ export default function ScrollToTop() {
   return (
     <div className='fixed bottom-8 right-8 z-999'>
       <div className='flex items-center gap-2.5'>
+        
         <Link
           href='https://wa.me/919562857669'
           target='_blank'
