@@ -29,11 +29,11 @@ export default function ScrollToTop() {
   return (
     <div className='fixed bottom-8 right-8 z-999'>
       <div className='flex items-center gap-2.5'>
-        
+
         <Link
           href='https://wa.me/919562857669'
           target='_blank'
-          className='hidden lg:block bg-green-600 text-white hover:bg-darkmode text-sm px-4 py-3.5 leading-none rounded-lg font-medium text-nowrap'>
+          className='lg:block bg-green-600 text-white hover:bg-darkmode text-sm px-4 py-3.5 leading-none rounded-lg font-medium text-nowrap'>
           Chat Now
         </Link>
         {isVisible && (
