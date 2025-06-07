@@ -30,6 +30,10 @@ const Features = () => {
   return (
     <section id='features'>
       <div className='container'>
+       
+       
+
+
         <h2 className='text-midnight_text text-center mb-5 max-w-xl mx-auto sm:leading-16'>
           Everything You Need to Build, Scale & Succeed.
         </h2>
