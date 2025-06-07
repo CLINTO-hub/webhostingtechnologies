@@ -26,7 +26,7 @@ export default function ScrollToTop() {
   }, [])
 
   return (
-    <div className='fixed bottom-8 right-8 z-50'>
+    <div className='fixed bottom-8 right-3 z-50'>
       <div className='flex flex-row items-center gap-2.5'>
         {/* Chat Now button for desktop: always visible */}
         <Link
